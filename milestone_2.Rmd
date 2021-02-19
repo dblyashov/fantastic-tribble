@@ -7,8 +7,12 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 ```{r}
-##The first project I looked at was the fair drug prices analysis and was amazed at how well it was put together. There was a good amount of data gathering involved. Two pros: very extensive visuals which convey drug prices well, and the modeling regresssion made sense and produced significant results. It was really hard to find any cons, but perhaps he could have used more professional colors for his graphs. Also another thing I would have apprecaited was a sort of flow of what charts and data I should look at in which order. There was a lot of info thrown at me and it could have been organized in a more appealing UX/UI type of way. 
+# The first project I looked at was the fair drug prices analysis and was amazed at how well it was put together. There was a good amount of data gathering involved. Two pros: very extensive visuals which convey drug prices well, and the modeling regresssion made sense and produced significant results. It was really hard to find any cons, but perhaps he could have used more professional colors for his graphs. Also another thing I would have apprecaited was a sort of flow of what charts and data I should look at in which order. There was a lot of info thrown at me and it could have been organized in a more appealing UX/UI type of way.
 
-## The second one I looked at was NFL Best Plays. This one seemed a little bit more rough around the edges. I liked the sports field images that they incorporated into the modeling. The play-by-play analysis was easy to read and digest as I could see exactly how often a team would either run a play to the left, right, or middle. A couple cons was that the modeling aspect was slightly missing and there were not a lot of data points to explore. The project lacked depth in observation. It could have contained more data, graphs, and analyses. 
+# The second one I looked at was NFL Best Plays. This one seemed a little bit more rough around the edges. I liked the sports field images that they incorporated into the modeling. The play-by-play analysis was easy to read and digest as I could see exactly how often a team would either run a play to the left, right, or middle. A couple cons was that the modeling aspect was slightly missing and there were not a lot of data points to explore. The project lacked depth in observation. It could have contained more data, graphs, and analyses.
+
+#https://github.com/dblyashov/milestone_2
+
+
 ```
 
